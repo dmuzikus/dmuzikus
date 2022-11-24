@@ -7,5 +7,5 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original-wordmark.svg" title="Svelte" alt="Svelte" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original-wordmark.svg" title="Svelte" alt="Svelte" width="80" height="80"/>&nbsp;
 </div>
