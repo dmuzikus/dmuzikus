@@ -35,7 +35,7 @@
 <ul>
   <li>c - 6 months experience</li>
   <li>c++ - 6 months experience</li>
-  <li>c# - 6 months experience&</li>
+  <li>c# - 6 months experience</li>
   <li>js,css,html,svelte - 3 years experience</li>
   <li>python - 5 years experience</li>
 </ul>
