@@ -13,6 +13,16 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmuzikus&show_icons=true&theme=vue&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
+### :card_file_box: My projects :
+
+<div>
+    <h4>Experience in creating :</h4>
+    <ul>
+      <li>print services using processed data(reportlab - pds, xlsxwriter - excel).</li>
+      <li>telegram bots(pyTelegramBotAPI).</li>
+    </ul>
+  </div>
+
 ---
 
 <div>
@@ -33,7 +43,6 @@
       <li>c# - 6 months experience&</li>
       <li>js,css,html,svelte - 3 years experience</li>
       <li>python - 5 years experience</li>
-      <li>Experience in creating print services using processed data: reportlab for pdf, xlsxwriter for excel</li>
     </ul>
   </div>
 </div>
