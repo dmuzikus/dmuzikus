@@ -7,7 +7,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 ## Frontend
-<div>
+<div float="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original-wordmark.svg" title="Svelte" alt="Svelte" width="80" height="80"/>
 </div>
 <div>
