@@ -4,8 +4,10 @@
 
 --- 
 
-<div id="header" align="left">
+<div align="left">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div>Soft skills:</div>
+  <div>Hard skills:</div>
 </div>
 
 ---
