@@ -7,20 +7,24 @@
 <div>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div>
-    Soft skills:
-    + Communication skills
-    + Involvement in the process
-    + Desire to develop
-    + Responsibility
+    <h4>Soft skills:</h4>
+    <ul>
+      <li>Communication skills</li>
+      <li>Involvement in the process</li>
+      <li>Desire to develop</li>
+      <li>Responsibility</li>
+    </ul>
   </div>
   <div>
     <h4>Hard skills:</h4>
-    + c - 6 months experience
-    + c++ - 6 months experience
-    + c# - 6 months experience&
-    + js,css,html,svelte - 3 years experience
-    + python - 5 years experience
-    + Experience in creating print services using processed data: reportlab for pdf, xlsxwriter for excel
+    <ul>
+      <li>c - 6 months experience</li>
+      <li>c++ - 6 months experience</li>
+      <li>c# - 6 months experience&</li>
+      <li>js,css,html,svelte - 3 years experience</li>
+      <li>python - 5 years experience</li>
+      <li>Experience in creating print services using processed data: reportlab for pdf, xlsxwriter for excel</li>
+    </ul>
   </div>
 </div>
 
