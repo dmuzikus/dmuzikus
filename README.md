@@ -18,6 +18,7 @@
 <ul>
   <li>print services using processed data(reportlab - pds, xlsxwriter - excel).</li>
   <li>telegram bots(pyTelegramBotAPI).</li>
+  <li>SCADA systems.</li>
 </ul>
 
 ---
