@@ -6,6 +6,8 @@
 <div>FullStack developper :computer:</div>
 <br/>
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dmuzikus&theme=react)](https://git.io/streak-stats)
 
 ---
 
