@@ -43,7 +43,7 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-## Langs
+## Languages
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="80" height="80"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="80" height="80"/>
