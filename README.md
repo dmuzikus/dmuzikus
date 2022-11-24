@@ -1,5 +1,5 @@
 ## 👋 My name is Daniil Muzikus
-### 👨‍🎓 And I'm a second year student at ITMO (Information Technologies and Programming Faculty)
+### 👨‍🎓 And I'm a 2nd student at ITMO (Information systems and Technologies)
 
 --- 
 #### FullStack developper :computer:
