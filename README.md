@@ -1,6 +1,6 @@
-### 👋 I'm Daniil Muzikus
-## 👨‍🎓 ITMO University 2nd year student
-# Information Technologies and Programming Faculty
+## 👋 I'm Daniil Muzikus
+### 👨‍🎓 ITMO University 2nd year student
+#### Information Technologies and Programming Faculty
 
 --- 
 
