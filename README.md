@@ -17,8 +17,8 @@
 ### Experience in creating :</h4>
 <ul>
   <li>print services using processed data(reportlab - pds, xlsxwriter - excel).</li>
-  <li>telegram bots(pyTelegramBotAPI).</li>
   <li>SCADA systems.</li>
+  <li>telegram bots(pyTelegramBotAPI).</li>
 </ul>
 
 ---
