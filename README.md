@@ -7,7 +7,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 ## Frontend
-<div float="left">
+<div style="display: flex; align-items: center;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original-wordmark.svg" title="Svelte" alt="Svelte" width="80" height="80"/>
 </div>
 <div>
