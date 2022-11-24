@@ -15,37 +15,31 @@
 
 ### :card_file_box: My projects :
 
-<div>
-    <h4>Experience in creating :</h4>
-    <ul>
-      <li>print services using processed data(reportlab - pds, xlsxwriter - excel).</li>
-      <li>telegram bots(pyTelegramBotAPI).</li>
-    </ul>
-  </div>
+### Experience in creating :</h4>
+<ul>
+  <li>print services using processed data(reportlab - pds, xlsxwriter - excel).</li>
+  <li>telegram bots(pyTelegramBotAPI).</li>
+</ul>
 
 ---
 
-<div>
-  <div>
-    <h4>Soft skills:</h4>
-    <ul>
-      <li>Communication skills</li>
-      <li>Involvement in the process</li>
-      <li>Desire to develop</li>
-      <li>Responsibility</li>
-    </ul>
-  </div>
-  <div>
-    <h4>Hard skills:</h4>
-    <ul>
-      <li>c - 6 months experience</li>
-      <li>c++ - 6 months experience</li>
-      <li>c# - 6 months experience&</li>
-      <li>js,css,html,svelte - 3 years experience</li>
-      <li>python - 5 years experience</li>
-    </ul>
-  </div>
-</div>
+
+### Soft skills
+<ul>
+  <li>Communication skills</li>
+  <li>Involvement in the process</li>
+  <li>Desire to develop</li>
+  <li>Responsibility</li>
+</ul>
+
+### Hard skills
+<ul>
+  <li>c - 6 months experience</li>
+  <li>c++ - 6 months experience</li>
+  <li>c# - 6 months experience&</li>
+  <li>js,css,html,svelte - 3 years experience</li>
+  <li>python - 5 years experience</li>
+</ul>
 
 ---
 
