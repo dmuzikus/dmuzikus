@@ -10,8 +10,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dmuzikus&theme=vue)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmuzikus&show_icons=true&theme=vue&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ### :card_file_box: My projects :
 
 ### Experience in creating :</h4>
