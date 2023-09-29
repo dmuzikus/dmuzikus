@@ -6,10 +6,6 @@
 <br/>
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
 
-### :fire: My Stats :
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dmuzikus)](https://git.io/streak-stats)
-
 ### :card_file_box: My projects :
 
 ### Experience in creating :</h4>
