@@ -8,7 +8,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dmuzikus&theme=vue)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dmuzikus)](https://git.io/streak-stats)
 
 ### :card_file_box: My projects :
 
